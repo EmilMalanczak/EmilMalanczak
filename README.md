@@ -2,6 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emil-ma%C5%82a%C5%84czak-7bb90a19b/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-Profile-informational?style=flat&logo=twitch&logoColor=white&color=a970ff)](https://www.twitch.tv/misio_emisio)
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=5869E9)](https://discord.com/users/658729403026505748)
 
 Hey there 👋
 
