@@ -14,17 +14,36 @@ Want to know more about me? Fell free to ask me! 🤙 😎
 
 ## 📖 Reading
 
+<a  href="https://app.daily.dev/Misit" >
+   <img 
+   style="margin-left: 1em;"
+   align="right"  src="https://api.daily.dev/devcards/080afd6c890d4239b2e43c09e1408c36.png?r=j18" width="300" alt="Emil Małańczak's Dev Card"  />
+ </a>
+
 <p>
-  I love reading news from the IT industry and learning new things, daily.dev helps me a lot with that 🔥 In apart of that my bookmarks collection of useful links or tools is reaaally huge   
-<a align="right" href="https://app.daily.dev/Misit"><img src="https://api.daily.dev/devcards/080afd6c890d4239b2e43c09e1408c36.png?r=j18" width="400" alt="Emil Małańczak's Dev Card"/></a>
+I love reading news from the IT industry and learning new things, daily.dev helps me a lot with that 🔥   
 </p>
- 
+<p>
+In apart of that my bookmarks collection of useful links or tools is reaaally huge
+</p>
+
+<br />
+<br />
+<br />
+<br /> 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 ## 📌 Highlighted Repositories
 
 <br />
- 
+  
 <p align="center" >
 <a href="https://github.com/EmilMalanczak/beat-saber-overlay">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=beat-saber-overlay&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
