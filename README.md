@@ -14,19 +14,19 @@ Want to know more about me? Fell free to ask me! 🤙 😎
 ## 📌 Highlighted Repositories
 
 <br />
-
+ 
+<p align="center" >
 <a href="https://github.com/EmilMalanczak/beat-saber-overlay">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=beat-saber-overlay&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br />
-
 <a href="https://github.com/EmilMalanczak/use-scroll-into-view">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=use-scroll-into-view&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+</p>
 
 <br />
-
+ 
 <a href="https://github.com/EmilMalanczak/spacing-util">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=spacing-util&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
