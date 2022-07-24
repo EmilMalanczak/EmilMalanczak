@@ -17,21 +17,21 @@ Want to know more about me? Fell free to ask me! 🤙 😎
  
 <p align="center" >
 <a href="https://github.com/EmilMalanczak/beat-saber-overlay">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=beat-saber-overlay&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0C2C4C" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=beat-saber-overlay&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
 </a>
 
 <a href="https://github.com/EmilMalanczak/use-scroll-into-view">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=use-scroll-into-view&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0C2C4C" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=use-scroll-into-view&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/EmilMalanczak/spacing-util">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=spacing-util&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0C2C4C" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=spacing-util&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
 </a>
 
 <a href="https://github.com/EmilMalanczak/mantine">
-  <img align="top"  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=mantine&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0C2C4C" />
+  <img align="top"  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=mantine&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
 </a>
 </p>
 
@@ -40,11 +40,11 @@ Want to know more about me? Fell free to ask me! 🤙 😎
 <br />
 
 <a href="https://github.com/EmilMalanczak"> 
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilMalanczak&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0C2C4C" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilMalanczak&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
 </a>
 
 <a href="https://github.com/EmilMalanczak">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=EmilMalanczak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=0C2C4C" alt="Emil GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=EmilMalanczak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=0A233D" alt="Emil GitHub Stats" />
 </a>
 
 <br /> 
