@@ -12,6 +12,15 @@ Want to know more about me? Fell free to ask me! 🤙 😎
 
 <br />
 
+## 📖 Reading
+
+<p>
+  I love reading news from the IT industry and learning new things, daily.dev helps me a lot with that 🔥 In apart of that my bookmarks collection of useful links or tools is reaaally huge   
+<a align="right" href="https://app.daily.dev/Misit"><img src="https://api.daily.dev/devcards/080afd6c890d4239b2e43c09e1408c36.png?r=j18" width="400" alt="Emil Małańczak's Dev Card"/></a>
+</p>
+ 
+<br />
+
 ## 📌 Highlighted Repositories
 
 <br />
