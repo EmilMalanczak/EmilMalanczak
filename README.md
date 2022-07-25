@@ -27,8 +27,6 @@ I love reading news from the IT industry and learning new things, daily.dev help
 In apart of that my bookmarks collection of useful links or tools is reaaally huge
 </p>
 
-<p>My recent daily.dev bookmarks:</p>
-
 <!--  BOOKMARKS-LIST:START -->
 <!--  BOOKMARKS-LIST:END -->
 
