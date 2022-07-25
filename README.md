@@ -17,7 +17,7 @@ Want to know more about me? Feel free to ask me! 🤙 😎
 <a  href="https://app.daily.dev/Misit" >
    <img 
    style="margin-left: 1em;"
-   align="right"  src="https://api.daily.dev/devcards/080afd6c890d4239b2e43c09e1408c36.png?r=j18" width="300" alt="Emil Małańczak's Dev Card"  />
+   align="right"  src="./assets/devcard.svg" width="300" alt="Emil Małańczak's Dev Card"  /> 
  </a>
 
 <p>
