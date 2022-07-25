@@ -29,8 +29,8 @@ In apart of that my bookmarks collection of useful links or tools is reaaally hu
 
 <p>My recent daily.dev bookmarks:</p>
 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!--  BOOKMARKS-LIST:START -->
+<!--  BOOKMARKS-LIST:END -->
 
 <br />
 <br />
