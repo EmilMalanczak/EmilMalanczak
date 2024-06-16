@@ -60,8 +60,8 @@ In apart of that my bookmarks collection of useful links or tools is reaaally hu
 </p>
 
 <p align="center">
-<a href="https://github.com/EmilMalanczak/spacing-util">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=spacing-util&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
+<a href="https://github.com/EmilMalanczak/hookform-input">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilMalanczak&repo=hookform-input&title_color=ffffff&text_color=c9cacc&icon_color=1C7DDD&bg_color=0A233D" />
 </a>
 
 <a href="https://github.com/EmilMalanczak/mantine">
